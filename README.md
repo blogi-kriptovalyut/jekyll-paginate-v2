@@ -1,4 +1,13 @@
-# Jekyll::Paginate V2
+# Jekyll::Paginate V2 FORK for Minimal Mistakes Theme!
+
+Install:   
+
+`gem "jekyll-paginate-v2", github: 'mmistakes/jekyll-paginate-v2', :branch => 'jekyll-v4'`
+
+or
+
+Install:   
+`gem "jekyll-paginate-v2", github: 'mmistakes/jekyll-paginate-v2', :branch => 'jekyll-v4'`
 
 Pagination gem built specially for Jekyll 3 and newer that is fully backwards compatible and serves as an enhanced replacement for the previously built-in [jekyll-paginate gem](https://github.com/jekyll/jekyll-paginate). View it on [rubygems.org](https://rubygems.org/gems/jekyll-paginate-v2).
 
