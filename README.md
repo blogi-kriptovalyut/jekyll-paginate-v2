@@ -2,7 +2,7 @@
 
 Install:   
 
-`gem "jekyll-paginate-v2", github: 'mmistakes/jekyll-paginate-v2', :branch => 'jekyll-v4'`
+`gem "jekyll-paginate-v2", github: 'blogi-kriptovalyut/jekyll-paginate-v2', :branch => 'jekyll-v4'`
 
 or
 
